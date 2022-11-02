@@ -1,0 +1,1 @@
+scanbuttonxy = pyautogui.locateOnScreen('scanstart.png', confidence=0.5)
